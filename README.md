@@ -1,4 +1,4 @@
-# Simple Flask Login
+# Flask W3 Login
 
 
 * [Based on Vercel Flask Login](https://github.com/eniompw/vercel-flask-login)
